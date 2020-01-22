@@ -1,0 +1,34 @@
+Directions are in parentheses ()
+Variables to be filled out by you are in <>.
+When you enter your variable data, do not retain the <>.
+Once you have performed the direction, you may delete anything in the parentheses.
+rename this file as your name when saving. If your name was John Smith you should check the file in as JohnSmith.txt
+----------DELETE EVERYTHING UP TO AND INCLUDING THIS LINE--------------------
+
+This is the template. (Delete this line)
+Version: 0.1  (increment and make this the FIRST line)
+My name is: <Name>
+I like Git! <True/False>
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+(delete all trailing whitespace)
+ 
+
+
+ 
+
+ 
+
+
+     
